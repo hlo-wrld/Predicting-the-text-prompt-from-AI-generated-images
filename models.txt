@@ -1,0 +1,3 @@
+The base-model and the model used for training can be downloaded from here:
+
+(https://drive.google.com/drive/folders/1F6qssG-RYYznb9Ip4pAPWQY9PR-183jv?usp=drive_link)
