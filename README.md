@@ -1,4 +1,4 @@
-# stable_diffusion project
+# Predicting the prompt used to generate the image
 
 This repository contains an image-to-text model that generates descriptive captions for input images. The model utilises computer vision and natural language processing techniques to analyse images and generate corresponding captions.
 
